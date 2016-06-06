@@ -1,0 +1,5 @@
+C:\Users\Marvik-PC\Documents\Visual Studio 2015\Projects\DataTypesExercises\03.PracticeCharactersAndStrings\bin\Debug\03.PracticeCharactersAndStrings.exe.config
+C:\Users\Marvik-PC\Documents\Visual Studio 2015\Projects\DataTypesExercises\03.PracticeCharactersAndStrings\bin\Debug\03.PracticeCharactersAndStrings.exe
+C:\Users\Marvik-PC\Documents\Visual Studio 2015\Projects\DataTypesExercises\03.PracticeCharactersAndStrings\bin\Debug\03.PracticeCharactersAndStrings.pdb
+C:\Users\Marvik-PC\Documents\Visual Studio 2015\Projects\DataTypesExercises\03.PracticeCharactersAndStrings\obj\Debug\03.PracticeCharactersAndStrings.exe
+C:\Users\Marvik-PC\Documents\Visual Studio 2015\Projects\DataTypesExercises\03.PracticeCharactersAndStrings\obj\Debug\03.PracticeCharactersAndStrings.pdb
