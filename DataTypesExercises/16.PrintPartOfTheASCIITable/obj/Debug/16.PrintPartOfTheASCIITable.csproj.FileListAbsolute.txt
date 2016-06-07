@@ -1,0 +1,5 @@
+C:\Users\Marvik-PC\Documents\Visual Studio 2015\Projects\DataTypesExercises\16.PrintPartOfTheASCIITable\bin\Debug\16.PrintPartOfTheASCIITable.exe.config
+C:\Users\Marvik-PC\Documents\Visual Studio 2015\Projects\DataTypesExercises\16.PrintPartOfTheASCIITable\bin\Debug\16.PrintPartOfTheASCIITable.exe
+C:\Users\Marvik-PC\Documents\Visual Studio 2015\Projects\DataTypesExercises\16.PrintPartOfTheASCIITable\bin\Debug\16.PrintPartOfTheASCIITable.pdb
+C:\Users\Marvik-PC\Documents\Visual Studio 2015\Projects\DataTypesExercises\16.PrintPartOfTheASCIITable\obj\Debug\16.PrintPartOfTheASCIITable.exe
+C:\Users\Marvik-PC\Documents\Visual Studio 2015\Projects\DataTypesExercises\16.PrintPartOfTheASCIITable\obj\Debug\16.PrintPartOfTheASCIITable.pdb

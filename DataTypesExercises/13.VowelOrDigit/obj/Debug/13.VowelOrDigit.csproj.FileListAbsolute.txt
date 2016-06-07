@@ -1,0 +1,5 @@
+C:\Users\Marvik-PC\Documents\Visual Studio 2015\Projects\DataTypesExercises\13.VowelOrDigit\bin\Debug\13.VowelOrDigit.exe.config
+C:\Users\Marvik-PC\Documents\Visual Studio 2015\Projects\DataTypesExercises\13.VowelOrDigit\bin\Debug\13.VowelOrDigit.exe
+C:\Users\Marvik-PC\Documents\Visual Studio 2015\Projects\DataTypesExercises\13.VowelOrDigit\bin\Debug\13.VowelOrDigit.pdb
+C:\Users\Marvik-PC\Documents\Visual Studio 2015\Projects\DataTypesExercises\13.VowelOrDigit\obj\Debug\13.VowelOrDigit.exe
+C:\Users\Marvik-PC\Documents\Visual Studio 2015\Projects\DataTypesExercises\13.VowelOrDigit\obj\Debug\13.VowelOrDigit.pdb
