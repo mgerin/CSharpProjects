@@ -1,0 +1,6 @@
+c:\users\marin\documents\visual studio 2015\Projects\ProgrammingFundamentalsExamApril\01.SweetDessert\bin\Debug\01.SweetDessert.exe.config
+c:\users\marin\documents\visual studio 2015\Projects\ProgrammingFundamentalsExamApril\01.SweetDessert\bin\Debug\01.SweetDessert.exe
+c:\users\marin\documents\visual studio 2015\Projects\ProgrammingFundamentalsExamApril\01.SweetDessert\bin\Debug\01.SweetDessert.pdb
+c:\users\marin\documents\visual studio 2015\Projects\ProgrammingFundamentalsExamApril\01.SweetDessert\obj\Debug\01.SweetDessert.csprojResolveAssemblyReference.cache
+c:\users\marin\documents\visual studio 2015\Projects\ProgrammingFundamentalsExamApril\01.SweetDessert\obj\Debug\01.SweetDessert.exe
+c:\users\marin\documents\visual studio 2015\Projects\ProgrammingFundamentalsExamApril\01.SweetDessert\obj\Debug\01.SweetDessert.pdb

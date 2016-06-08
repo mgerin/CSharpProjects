@@ -1,0 +1,5 @@
+c:\users\marin\documents\visual studio 2015\Projects\ProgrammingFundamentalsExamApril\02.GameOfNames\bin\Debug\02.GameOfNames.exe.config
+c:\users\marin\documents\visual studio 2015\Projects\ProgrammingFundamentalsExamApril\02.GameOfNames\bin\Debug\02.GameOfNames.exe
+c:\users\marin\documents\visual studio 2015\Projects\ProgrammingFundamentalsExamApril\02.GameOfNames\bin\Debug\02.GameOfNames.pdb
+c:\users\marin\documents\visual studio 2015\Projects\ProgrammingFundamentalsExamApril\02.GameOfNames\obj\Debug\02.GameOfNames.exe
+c:\users\marin\documents\visual studio 2015\Projects\ProgrammingFundamentalsExamApril\02.GameOfNames\obj\Debug\02.GameOfNames.pdb
