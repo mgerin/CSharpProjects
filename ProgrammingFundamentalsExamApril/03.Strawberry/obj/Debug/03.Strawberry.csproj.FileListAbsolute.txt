@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\GitHub\CSharpProjects\ProgrammingFundamentalsExamApril\03.Strawberry\bin\Debug\03.Strawberry.exe.config
+C:\Users\Marin\Documents\GitHub\CSharpProjects\ProgrammingFundamentalsExamApril\03.Strawberry\bin\Debug\03.Strawberry.exe
+C:\Users\Marin\Documents\GitHub\CSharpProjects\ProgrammingFundamentalsExamApril\03.Strawberry\bin\Debug\03.Strawberry.pdb
+C:\Users\Marin\Documents\GitHub\CSharpProjects\ProgrammingFundamentalsExamApril\03.Strawberry\obj\Debug\03.Strawberry.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\GitHub\CSharpProjects\ProgrammingFundamentalsExamApril\03.Strawberry\obj\Debug\03.Strawberry.exe
+C:\Users\Marin\Documents\GitHub\CSharpProjects\ProgrammingFundamentalsExamApril\03.Strawberry\obj\Debug\03.Strawberry.pdb

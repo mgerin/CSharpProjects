@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\GitHub\CSharpProjects\ProgrammingFundamentalsExamApril\04.ArrayModifier\bin\Debug\04.ArrayModifier.exe.config
+C:\Users\Marin\Documents\GitHub\CSharpProjects\ProgrammingFundamentalsExamApril\04.ArrayModifier\bin\Debug\04.ArrayModifier.exe
+C:\Users\Marin\Documents\GitHub\CSharpProjects\ProgrammingFundamentalsExamApril\04.ArrayModifier\bin\Debug\04.ArrayModifier.pdb
+C:\Users\Marin\Documents\GitHub\CSharpProjects\ProgrammingFundamentalsExamApril\04.ArrayModifier\obj\Debug\04.ArrayModifier.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\GitHub\CSharpProjects\ProgrammingFundamentalsExamApril\04.ArrayModifier\obj\Debug\04.ArrayModifier.exe
+C:\Users\Marin\Documents\GitHub\CSharpProjects\ProgrammingFundamentalsExamApril\04.ArrayModifier\obj\Debug\04.ArrayModifier.pdb
