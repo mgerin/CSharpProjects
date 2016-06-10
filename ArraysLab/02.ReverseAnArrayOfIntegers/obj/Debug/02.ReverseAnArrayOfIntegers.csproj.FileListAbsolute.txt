@@ -1,0 +1,5 @@
+c:\users\marvik\documents\visual studio 2015\Projects\ArraysLab\02.ReverseAnArrayOfIntegers\bin\Debug\02.ReverseAnArrayOfIntegers.exe.config
+c:\users\marvik\documents\visual studio 2015\Projects\ArraysLab\02.ReverseAnArrayOfIntegers\bin\Debug\02.ReverseAnArrayOfIntegers.exe
+c:\users\marvik\documents\visual studio 2015\Projects\ArraysLab\02.ReverseAnArrayOfIntegers\bin\Debug\02.ReverseAnArrayOfIntegers.pdb
+c:\users\marvik\documents\visual studio 2015\Projects\ArraysLab\02.ReverseAnArrayOfIntegers\obj\Debug\02.ReverseAnArrayOfIntegers.exe
+c:\users\marvik\documents\visual studio 2015\Projects\ArraysLab\02.ReverseAnArrayOfIntegers\obj\Debug\02.ReverseAnArrayOfIntegers.pdb

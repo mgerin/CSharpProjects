@@ -1,0 +1,6 @@
+c:\users\marvik\documents\visual studio 2015\Projects\ArraysLab\05.TripleSum\bin\Debug\05.TripleSum.exe.config
+c:\users\marvik\documents\visual studio 2015\Projects\ArraysLab\05.TripleSum\bin\Debug\05.TripleSum.exe
+c:\users\marvik\documents\visual studio 2015\Projects\ArraysLab\05.TripleSum\bin\Debug\05.TripleSum.pdb
+c:\users\marvik\documents\visual studio 2015\Projects\ArraysLab\05.TripleSum\obj\Debug\05.TripleSum.exe
+c:\users\marvik\documents\visual studio 2015\Projects\ArraysLab\05.TripleSum\obj\Debug\05.TripleSum.pdb
+c:\users\marvik\documents\visual studio 2015\Projects\ArraysLab\05.TripleSum\obj\Debug\05.TripleSum.csprojResolveAssemblyReference.cache

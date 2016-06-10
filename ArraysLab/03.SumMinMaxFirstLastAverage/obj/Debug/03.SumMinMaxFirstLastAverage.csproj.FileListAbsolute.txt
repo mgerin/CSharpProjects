@@ -1,0 +1,5 @@
+c:\users\marvik\documents\visual studio 2015\Projects\ArraysLab\03.SumMinMaxFirstLastAverage\bin\Debug\03.SumMinMaxFirstLastAverage.exe.config
+c:\users\marvik\documents\visual studio 2015\Projects\ArraysLab\03.SumMinMaxFirstLastAverage\bin\Debug\03.SumMinMaxFirstLastAverage.exe
+c:\users\marvik\documents\visual studio 2015\Projects\ArraysLab\03.SumMinMaxFirstLastAverage\bin\Debug\03.SumMinMaxFirstLastAverage.pdb
+c:\users\marvik\documents\visual studio 2015\Projects\ArraysLab\03.SumMinMaxFirstLastAverage\obj\Debug\03.SumMinMaxFirstLastAverage.exe
+c:\users\marvik\documents\visual studio 2015\Projects\ArraysLab\03.SumMinMaxFirstLastAverage\obj\Debug\03.SumMinMaxFirstLastAverage.pdb
