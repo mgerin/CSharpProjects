@@ -1,0 +1,6 @@
+C:\Users\Marvik\Documents\GitHub\CSharpProjects\DataTypesExercises\23.PrimeChecker\bin\Debug\23.PrimeChecker.exe.config
+C:\Users\Marvik\Documents\GitHub\CSharpProjects\DataTypesExercises\23.PrimeChecker\bin\Debug\23.PrimeChecker.exe
+C:\Users\Marvik\Documents\GitHub\CSharpProjects\DataTypesExercises\23.PrimeChecker\bin\Debug\23.PrimeChecker.pdb
+C:\Users\Marvik\Documents\GitHub\CSharpProjects\DataTypesExercises\23.PrimeChecker\obj\Debug\23.PrimeChecker.csprojResolveAssemblyReference.cache
+C:\Users\Marvik\Documents\GitHub\CSharpProjects\DataTypesExercises\23.PrimeChecker\obj\Debug\23.PrimeChecker.exe
+C:\Users\Marvik\Documents\GitHub\CSharpProjects\DataTypesExercises\23.PrimeChecker\obj\Debug\23.PrimeChecker.pdb

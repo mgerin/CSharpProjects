@@ -7,3 +7,6 @@ C:\Users\Marvik-PC\Documents\Visual Studio 2015\Projects\DataTypesExercises\01.P
 C:\Users\Marin\Documents\GitHub\CSharpProjects\DataTypesExercises\01.PracticeIntegerNumbers\bin\Debug\01.PracticeIntegerNumbers.exe.config
 C:\Users\Marin\Documents\GitHub\CSharpProjects\DataTypesExercises\01.PracticeIntegerNumbers\obj\Debug\01.PracticeIntegerNumbers.exe
 C:\Users\Marin\Documents\GitHub\CSharpProjects\DataTypesExercises\01.PracticeIntegerNumbers\obj\Debug\01.PracticeIntegerNumbers.pdb
+C:\Users\Marvik\Documents\GitHub\CSharpProjects\DataTypesExercises\01.PracticeIntegerNumbers\bin\Debug\01.PracticeIntegerNumbers.exe.config
+C:\Users\Marvik\Documents\GitHub\CSharpProjects\DataTypesExercises\01.PracticeIntegerNumbers\obj\Debug\01.PracticeIntegerNumbers.exe
+C:\Users\Marvik\Documents\GitHub\CSharpProjects\DataTypesExercises\01.PracticeIntegerNumbers\obj\Debug\01.PracticeIntegerNumbers.pdb

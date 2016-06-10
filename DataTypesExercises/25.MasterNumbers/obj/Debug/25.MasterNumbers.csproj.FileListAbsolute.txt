@@ -1,0 +1,6 @@
+C:\Users\Marvik\Documents\GitHub\CSharpProjects\DataTypesExercises\25.MasterNumbers\bin\Debug\25.MasterNumbers.exe.config
+C:\Users\Marvik\Documents\GitHub\CSharpProjects\DataTypesExercises\25.MasterNumbers\bin\Debug\25.MasterNumbers.exe
+C:\Users\Marvik\Documents\GitHub\CSharpProjects\DataTypesExercises\25.MasterNumbers\bin\Debug\25.MasterNumbers.pdb
+C:\Users\Marvik\Documents\GitHub\CSharpProjects\DataTypesExercises\25.MasterNumbers\obj\Debug\25.MasterNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Marvik\Documents\GitHub\CSharpProjects\DataTypesExercises\25.MasterNumbers\obj\Debug\25.MasterNumbers.exe
+C:\Users\Marvik\Documents\GitHub\CSharpProjects\DataTypesExercises\25.MasterNumbers\obj\Debug\25.MasterNumbers.pdb

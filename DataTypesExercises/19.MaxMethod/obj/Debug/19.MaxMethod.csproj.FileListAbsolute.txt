@@ -1,0 +1,6 @@
+C:\Users\Marvik\Documents\GitHub\CSharpProjects\DataTypesExercises\19.MaxMethod\bin\Debug\19.MaxMethod.exe.config
+C:\Users\Marvik\Documents\GitHub\CSharpProjects\DataTypesExercises\19.MaxMethod\bin\Debug\19.MaxMethod.exe
+C:\Users\Marvik\Documents\GitHub\CSharpProjects\DataTypesExercises\19.MaxMethod\bin\Debug\19.MaxMethod.pdb
+C:\Users\Marvik\Documents\GitHub\CSharpProjects\DataTypesExercises\19.MaxMethod\obj\Debug\19.MaxMethod.csprojResolveAssemblyReference.cache
+C:\Users\Marvik\Documents\GitHub\CSharpProjects\DataTypesExercises\19.MaxMethod\obj\Debug\19.MaxMethod.exe
+C:\Users\Marvik\Documents\GitHub\CSharpProjects\DataTypesExercises\19.MaxMethod\obj\Debug\19.MaxMethod.pdb
