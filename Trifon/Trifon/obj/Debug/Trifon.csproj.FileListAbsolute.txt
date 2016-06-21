@@ -4,3 +4,9 @@ c:\users\marin\documents\visual studio 2015\Projects\Trifon\Trifon\bin\Debug\Tri
 c:\users\marin\documents\visual studio 2015\Projects\Trifon\Trifon\bin\Debug\Trifon.pdb
 c:\users\marin\documents\visual studio 2015\Projects\Trifon\Trifon\obj\Debug\Trifon.exe
 c:\users\marin\documents\visual studio 2015\Projects\Trifon\Trifon\obj\Debug\Trifon.pdb
+C:\Users\Marin\Documents\GitHub\CSharpProjects\Trifon\Trifon\bin\Debug\Trifon.exe.config
+C:\Users\Marin\Documents\GitHub\CSharpProjects\Trifon\Trifon\obj\Debug\Trifon.exe
+C:\Users\Marin\Documents\GitHub\CSharpProjects\Trifon\Trifon\obj\Debug\Trifon.pdb
+C:\Users\Marin\Documents\GitHub\CSharpProjects\Trifon\Trifon\bin\Debug\Trifon.exe
+C:\Users\Marin\Documents\GitHub\CSharpProjects\Trifon\Trifon\bin\Debug\Trifon.pdb
+C:\Users\Marin\Documents\GitHub\CSharpProjects\Trifon\Trifon\obj\Debug\Trifon.csprojResolveAssemblyReference.cache
